@@ -2,9 +2,7 @@
 #include <cstdint>
 #include <cstddef>
 
-// 2020-06-03 16:27:02.794813600 UTC
-
-// 2020-06-23 14:14:01.271781700 UTC
+// test
 
 namespace hazedumper {
 	constexpr ::std::int64_t timestamp = 1592921641;
